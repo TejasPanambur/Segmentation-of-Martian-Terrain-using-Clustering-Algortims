@@ -42,10 +42,12 @@ a. The K means reconstructed image for k values in range [2,16] for image
 0153MR0008490000201265E01_DRLX . The images on the left are reconstructed images and
 loss plot for original image without preprocessing and images on the right are reconstructed
 images after decorrelation stretching.
-<img align="left" width="200" height="400" src='Plots/Kmeans/0153MR0008490000201265E01_DRLX_rgb__bruteForce(2%2C%2016).jpg'/>
-<img align="right" width="200" height="400" src='Plots/Kmeans/0153MR0008490000201265E01_DRLX_rgb__decorrStretch_bruteForce(2%2C%2016).jpg'/>
-
-
+<table>
+  <tr>
+    <td><img src="Plots/Kmeans/0153MR0008490000201265E01_DRLX_rgb__decorrStretch_bruteForce(2%2C%2016).jpg" width=270 height=480></td>
+    <td><img src="Plots/Kmeans/0153MR0008490000201265E01_DRLX_rgb__bruteForce(2%2C%2016).jpg'" width=270 height=480></td>
+  </tr>
+ </table>
 
 b. The Images below are images after decorrelation stretching. We can see that rocks in the first
 image is colored in light green, shadows are of dark blue color and soil is in grey color. In the
