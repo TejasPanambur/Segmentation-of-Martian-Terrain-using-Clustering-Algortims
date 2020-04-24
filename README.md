@@ -44,8 +44,11 @@ loss plot for original image without preprocessing and images on the right are r
 images after decorrelation stretching.
 <table>
   <tr>
-    <td><img src="Plots/Kmeans/0153MR0008490000201265E01_DRLX_rgb__decorrStretch_bruteForce(2%2C%2016).jpg" width=270 height=480></td>
-    <td><img src="Plots/Kmeans/0153MR0008490000201265E01_DRLX_rgb__bruteForce(2%2C%2016).jpg'" width=270 height=480></td>
+    <td> Decorrelation Stretched Reconstructed Image </td>
+    <td> Reconstructed RGB Image </td>    
+  <tr>
+    <td><img src="Plots/Kmeans/0153MR0008490000201265E01_DRLX_rgb__bruteForce(2%2C%2016).jpg" width=470 height=480></td>
+    <td><img src="Plots/Kmeans/0153MR0008490000201265E01_DRLX_rgb__decorrStretch_bruteForce(2%2C%2016).jpg" width=470 height=480></td>
   </tr>
  </table>
 
@@ -56,4 +59,27 @@ red. In fourth image the rocks covered in dust are colored red and other rocks a
 green.
 
 ![](Plots/Screenshot_1.png)
+
+c. The segments for k= 6 before decorrelation are below.
+
+<table>
+  <tr>
+    <td> Segments for RGB Image </td>   
+  <tr>
+    <td><img src="Plots/Screenshot_2.png" width=960 height=480></td>
+  </tr>
+ </table>
+
+
+d. The segments for k = 6 after decorrelation stretching are below. We can see that it has tried to
+cluster rocks in segment 0, dust on top of rocks and soil and some part of shadows in segment 3.
+ <tr>
+    <td> Segments for Decorrelation Stretched Image </td>   
+  <tr>
+    <td><img src="Plots/Screenshot_3.png" width=960 height=480></td>
+  </tr>
+  <tr>
+    <td><img src="Plots/Screenshot_4.png" width=960 height=480></td>
+  </tr>
+ </table>
 
