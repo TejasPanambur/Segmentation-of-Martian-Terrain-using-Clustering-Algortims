@@ -76,10 +76,10 @@ cluster rocks in segment 0, dust on top of rocks and soil and some part of shado
  <tr>
     <td> Segments for Decorrelation Stretched Image </td>   
   <tr>
-    <td><img src="Plots/Screenshot_3.png" width=960 height=480></td>
+    <td><img src="Plots/Screenshot_3.png" width=960 height=240></td>
   </tr>
   <tr>
-    <td><img src="Plots/Screenshot_4.png" width=960 height=480></td>
+    <td><img src="Plots/Screenshot_4.png" width=960 height=240></td>
   </tr>
  </table>
 
