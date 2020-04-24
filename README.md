@@ -74,7 +74,7 @@ c. The segments for k= 6 before decorrelation are below.
 d. The segments for k = 6 after decorrelation stretching are below. We can see that it has tried to
 cluster rocks in segment 0, dust on top of rocks and soil and some part of shadows in segment 3.
  <tr>
-    <td> Segments for Decorrelation Stretched Image </td>   
+    <td> Segments for Decorrelation Stretched Image </td>  </tr> 
   <tr>
     <td><img src="Plots/Screenshot_3.png" width=960 height=240></td>
   </tr>
